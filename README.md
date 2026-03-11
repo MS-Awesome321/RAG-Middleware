@@ -1,5 +1,6 @@
 # RAG-Middleware
 
+<img width="944" height="922" alt="Screenshot 2026-03-11 at 3 57 42 PM" src="https://github.com/user-attachments/assets/8ae4b7ee-03d7-4ebf-801e-7afd74707922" />
 
 
 A high-performance RAG (Retrieval-Augmented Generation) orchestration layer designed to reduce LLM latency and improve response relevance. This project focuses on the "Middle" of the stack: implementing **Semantic Caching** to skip redundant DB lookups and **Cross-Encoder Reranking** to ensure the LLM receives only the most pertinent context.
